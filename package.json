@@ -1,0 +1,9 @@
+{
+  "name": "@willikinsabreu/is-odd",
+  "version": "1.0.0",
+  "description": "is this number odd?",
+  "main": "index.js",
+  "repository": "https://github.com/WillikinsM/is-odd.git",
+  "author": "WillikinsM <willikins98@gmail.com>",
+  "license": "MIT"
+}
